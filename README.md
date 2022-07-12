@@ -15,7 +15,7 @@ Goal is to keep creating, learning and making as much GA.
 0. Fundamentals. Understand majority of the structure + syntax.
 1. At first [Coding Train](https://www.youtube.com/c/TheCodingTrain)
 2. Emulating artist works that I like
-3. Collecting all other resources...
+3. [Google Sheet I am creating to document all my Tutorials](https://docs.google.com/spreadsheets/d/1IIMy_eI_Y_LFiQ1tczErNBZhhd7b5KmkrxwrjYolFYQ/edit?usp=sharing)
 
 ### Inspiration
 - r/generative
